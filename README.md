@@ -9,7 +9,7 @@ WAIC 2st AI-based Channel State Information Feedback
 
   raw_training_data
 
-3.Template Example：
+3.Reference Model：
 
   pytorch_template.zip (Pytorch Version)   
 
